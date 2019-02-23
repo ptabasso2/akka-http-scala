@@ -1,1 +1,1 @@
-*.sh linguist-language=Scala
+*.bash linguist-language=Scala
